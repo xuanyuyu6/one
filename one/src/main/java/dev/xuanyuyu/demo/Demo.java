@@ -38,7 +38,7 @@ public class Demo {
 
     private void setup(final FMLCommonSetupEvent event) {
         // Some preinit code
-        LOGGER.info("HELLO FROM PREINIT");
+        LOGGER.info("HELLO FROM PREINIT1231231");
         LOGGER.info("DIRT BLOCK >> {}", Blocks.DIRT.getRegistryName());
     }
 
